@@ -75,9 +75,9 @@ import {
             </InputGroup>
             </Flex>
           </Flex>
-          <Box maxW='sm' borderWidth='1px' borderRadius='lg' overflow='hidden'>
+          {/* <Box maxW='sm' borderWidth='1px' borderRadius='lg' overflow='hidden'>
       <Image src={'https://bit.ly/2Z4KKcF'} alt={"image"} />
-      </Box>
+      </Box> */}
   
           {/* <Flex
             flex={{ base: 1, md: 0 }}
